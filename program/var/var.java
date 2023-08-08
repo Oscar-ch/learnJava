@@ -11,7 +11,6 @@ class VarDemo{
     long l = 12345678;
 
     float f = 2.3f;//因为2.3默认是一个双精度数，所以需要强制转换成单精度数
-
     double d = 3.4;
 
     char ch = 'a';
