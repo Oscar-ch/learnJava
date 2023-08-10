@@ -1,3 +1,6 @@
+/*
+用于演示位运算的程序
+*/
 class OperateDemo4{
     public static void main(String[] args){
         System.out.println(8&4);
