@@ -3,6 +3,7 @@
 */
 
 class IfDemo{
+
     public static void main(String[] args){
         /*
         if语句的第一种格式：
@@ -38,7 +39,7 @@ class IfDemo{
 
 
        /*
-        if语句的第二种格式：
+        if语句的第三种格式：
         1.  if(条件表达式){
                 执行语句;
             }
