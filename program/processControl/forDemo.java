@@ -18,7 +18,7 @@ class ForDemo{
             break;
         }
 
-        //for(int a=0,b=5;;a++,b--)
+        //for(int a=0,b=5;;a++,b--) for也可以如此定义
 
         //for语言的嵌套结构
         int count = 0;
