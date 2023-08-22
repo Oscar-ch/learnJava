@@ -20,11 +20,11 @@ class ArrayDemo3{
 
 
 //选择排序
-    public static void selectSort(int[] arr){
+    public static void selectSort(int[] arr) {
 
-        for(int i=0;i<(arr.length-1);i++){
-            for(int j=i+1;j<arr.length;j++){
-                if(arr[i]>arr[j]){
+        for(int i = 0; i < (arr.length - 1); i++) {
+            for(int j = i + 1; j < arr.length; j++) {
+                if(arr[i] > arr[j]) {
                    swap(arr,i,j);
                 }
             }
